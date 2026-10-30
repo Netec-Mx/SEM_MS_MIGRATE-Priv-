@@ -1,24 +1,13 @@
-<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+<a href="https://netec.com">
+  <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300"/>
+</a>
 
 
 
-# Nombre del curso
+# De los servidores a la nube: Descubre Azure en acción
 
 
-
-## Plataforma de laboratorios
-
-
-
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **nombre**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
-
-
-
-## Lista de laboratorios
-
-
-
-Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
+## Demostraciones para Instructores 
 
 
 
